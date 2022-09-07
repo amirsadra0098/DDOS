@@ -1,6 +1,6 @@
 # DDOS
 Hello
-This DDOS is made by Sadra
+This DDOS is made by Sdr
 And I have no responsibility for misuse
 
 
